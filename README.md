@@ -4,6 +4,7 @@ Final project for MATES Data Science 2020-2021
 
 ## Notes on Dataset
 https://www.cs.cmu.edu/~enron/
+
 The dataset in use during this project can be found at this link. 
 I've attempted to upload the .csv to github to no avail, as github desktop has a maximum upload limit of 100 MB, and Github LFS has a maximum of 1 GB before they begin to charge the user.
 
